@@ -1,7 +1,7 @@
 # PHP-Demonlist
 A demon list for GDPS's written in PHP!
 
-# everytime there is a new demon added just change everything in list.php and rename t1 to t2 and so on Note you will require to login to ur s/ftp account to do this
+ everytime there is a new demon added just change everything in list.php and rename t1 to t2 and so on Note you will require to login to ur s/ftp account to do this
 
 # how to setup 
 download the repository and upload it to ur gdps server
